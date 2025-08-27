@@ -41,6 +41,8 @@ nav:
                 - AZT302.3 - Automation Account Runbook Managed Identity: Execution/AZT302/AZT302-3.md               
                 - AZT302.4 - Function Application: Execution/AZT302/AZT302-4.md
                 - AZT303 - Managed Device Scripting: Execution/AZT303/AZT303.md
+                - AZT304 - Hijack Azure Machine Learning Notebooks (via Storage Accounts): Execution/AZT304/AZT304.md
+                - AZT304.1 - Storage Account Notebook Overwrite: Execution/AZT304/AZT304-1.md
         - 'Privilege Escalation':
             - 'Privilege Escalation': PrivilegeEscalation/PrivEsc.md
             - Techniques:
