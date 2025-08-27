@@ -102,6 +102,8 @@ nav:
                 - AZT605.1 - Storage Account Access Key Dumping: CredentialAccess/AZT605/AZT605-1.md
                 - AZT605.2 - Automation Account Credential Secret Dump: CredentialAccess/AZT605/AZT605-2.md
                 - AZT605.3 - Resource Group Deployment History Secret Dump: CredentialAccess/AZT605/AZT605-3.md
+                - AZT606 - Steal App Service Easy Auth Tokens: CredentialAccess/AZT606/AZT606.md
+                - AZT606.1 - App Service Token File Decryption (Kudu): CredentialAccess/AZT606/AZT606-1.md
         - Impact:
             - Impact: Impact/Impact.md
             - Techniques:
