@@ -104,6 +104,8 @@ nav:
                 - AZT605.3 - Resource Group Deployment History Secret Dump: CredentialAccess/AZT605/AZT605-3.md
                 - AZT606 - Steal App Service Easy Auth Tokens: CredentialAccess/AZT606/AZT606.md
                 - AZT606.1 - App Service Token File Decryption (Kudu): CredentialAccess/AZT606/AZT606-1.md
+                - AZT607 - Extract Azure Load Testing Secrets and Tokens: CredentialAccess/AZT607/AZT607.md
+                - AZT607.1 - JMeter/Locust Code Execution to Extract Secrets/Tokens: CredentialAccess/AZT607/AZT607-1.md
         - Impact:
             - Impact: Impact/Impact.md
             - Techniques:
